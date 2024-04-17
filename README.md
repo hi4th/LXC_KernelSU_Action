@@ -1,6 +1,7 @@
 **中文** | [English](README_EN.md)
 
 # LXC-KernelSU Action
+[![Build Kernel by Neutron-clang](https://github.com/hi4th/LXC_KernelSU_Action/actions/workflows/build-kernel_by_Neutron-clang.yml/badge.svg)](https://github.com/hi4th/LXC_KernelSU_Action/actions/workflows/build-kernel_by_Neutron-clang.yml)[![Build kernel use Google-git](https://github.com/hi4th/LXC_KernelSU_Action/actions/workflows/build-kernel_use-Google-git.yml/badge.svg)](https://github.com/hi4th/LXC_KernelSU_Action/actions/workflows/build-kernel_use-Google-git.yml)
 
 用于 Non-GKI Kernel 的 Action，具有一定的普遍性，需要了解内核及 Android 的相关知识得以运用。
 
